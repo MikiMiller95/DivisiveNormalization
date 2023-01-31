@@ -1,4 +1,8 @@
 # DivisiveNormalization
+The relevant code for the 2022 ICLR paper:
+Divisive Feature Normalization Improves Image Recognition Performance in AlexNet
+by Michelle Miller, SueYeon Chung, Ken D Miller
+
 Incorporating Divisive Normalization into AlexNet
 
 This respository includes the architectures used for incorporating divisive normalization (DN) into 5 layer convolutional networks. 
